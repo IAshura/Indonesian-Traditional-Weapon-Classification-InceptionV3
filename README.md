@@ -46,7 +46,7 @@ Below are sample predictions from the trained model on unseen test data. The mod
 | Image | Description |
 | :---: | :--- |
 | <img src="results/Test prediction/Busur_2.jpg" width="200"> | **File:** Busur_2.jpg<br>**Prediction:** Correctly identified as Busur |
-| <img src="results/Test prediction/Clurit_13.jpg" width="200"> | **File:** Clurit_13.jpg<br>**Prediction:** Incorrectly identified as Clurit |
+| <img src="results/Test prediction/Clurit_13.jpg" width="200"> | **File:** Clurit_13.jpg<br>**Prediction:** Incorrectly identified as Kerambit |
 | <img src="results/Test prediction/Kerambit_3.jpg" width="200"> | **File:** Kerambit_3.jpg<br>**Prediction:** Correctly identified as Kerambit |
 | <img src="results/Test prediction/Plinteng_3.jpg" width="200"> | **File:** Plinteng_3.jpg<br>**Prediction:** Correctly identified as Plinteng |
 | <img src="results/Test prediction/Tombak_7.jpg" width="200"> | **File:** Tombak_7.jpg<br>**Prediction:** Correctly identified as Tombak |
