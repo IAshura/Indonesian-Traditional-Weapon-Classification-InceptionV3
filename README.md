@@ -58,5 +58,6 @@ Below are sample predictions from the trained model on unseen test data. The mod
 *   **Visualization:** Matplotlib, Seaborn
 
 ---
-**Author:** [Nama Anda]
+**Author:** Muhammad Mazen Fayiz Birizqie
+
 *Open for freelance projects and collaboration in Machine Learning & Computer Vision.*
